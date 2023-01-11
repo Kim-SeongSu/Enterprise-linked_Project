@@ -10,7 +10,7 @@
 :오프라인 강의장, 메디스트림 본사 <br>
  &nbsp;& Zoom, Slack huddle, 카카오톡  <br><br>
  - 작업 진행 <br>
- &nbsp; 개발환경: Visual studio code, Juypter Notebook, colab <br>
+ &nbsp; 개발환경: Visual studio code, Jupyter Notebook, colab <br>
  &nbsp; 언어: Python 3.8.x, Rustup 1.25.1 <br><br>
 - 팀명 및 팀원 소개<br>
 : meil-research (매일 리서치; 프로젝트에서 사용하는 meilisearch에서 착안) <br>
